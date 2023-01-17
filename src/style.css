@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Cocogoose';
+	src: url('./assets/fonts/ccp.ttf') format('ttf'),
+		url('./assets//fonts/ccpp.ttf') format('ttf');
+	font-weight: 600;
+	font-style: normal;
+}
+
+body {
+	font-family: 'Cocogoose';
+}
+
+.hello {
+	color: red;
+	background: url('./assets/icons/icon.jpg');
+	background-repeat: no-repeat;
+	font-family: 'Cocogoose';
+}
